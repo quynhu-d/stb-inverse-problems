@@ -1,0 +1,5 @@
+fuzzy-c-means
+numpy
+sklearn
+natasha
+spacy
